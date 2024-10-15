@@ -30,9 +30,9 @@ preflight:
     - filter: 'Silkscreen overlap'
       error: 'silk_overlap'
       regex: 'Silkscreen overlap'
-    - filter: 'Missing connection between items'
-      error: 'unconnected_items'
-      regex: 'Missing connection between items'
+    # - filter: 'Missing connection between items'
+    #   error: 'unconnected_items'
+    #   regex: 'Missing connection between items'
   set_text_variables:
     - name: 'date'
       command: 'date +%d.%m.%Y'
