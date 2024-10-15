@@ -4,7 +4,7 @@
 
 The `ll` project is based on a pcb with a decade counter (`CD4017`) coupled to a timer (`NE555`). The frequency of the timer can be adjusted trough a potentiometer.
 
-| Expierience | Level |
+| Experience | Level |
 |:------------|:-----:|
 | Soldering   | ![50%](https://progress-bar.xyz/25?progress_color=00ff00&suffix=%20Low&width=120) |
 | Mechanical  | ![50%](https://progress-bar.xyz/25?progress_color=0000ff&suffix=%20Low&width=120) |
@@ -25,7 +25,7 @@ There are two parts of the hardware. The pcb and the housing of the `LL`. The pc
 
 ## PCB
 
-The circuit board is populated on one side (Top). The best way for soldering is within a vapor phase soldering system.
+The circuit board is populated on one side (Top). The best way for soldering is within a standard soldering system.
 
 ### Top Layer
 
