@@ -21,7 +21,7 @@ The `ll` project is based on a pcb with a decade counter (`CD4017`) coupled to a
 
 # Hardware
 
-There are two parts of the hardware. The pcb and the housing of the `LL`. The pcb is created with  `KiCAD` and the housing with `FreeCAD`. All files are build with `github actions` so that they are ready for a production environment. The housing is printed with a 3D-printer (`Dremel 3D40`).
+There are two parts of the hardware. The pcb and the housing of the `LL`. The pcb is created with  `KiCAD` and the housing with `FreeCAD`. All files are built with `github actions` so that they are ready for a production environment. The housing is printed with a 3D-printer (`Dremel 3D40`).
 
 ## PCB
 
